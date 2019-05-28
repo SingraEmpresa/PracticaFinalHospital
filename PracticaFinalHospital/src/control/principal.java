@@ -15,7 +15,7 @@ public class principal {
 					ventana frame = new ventana();
 					frame.setVisible(true);
 				} catch (Exception e) {
-					e.printStackTrace();
+					e.printStackTrace(); 
 				}
 			}
 		});
